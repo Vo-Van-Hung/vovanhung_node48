@@ -87,6 +87,7 @@ SELECT * from users
 JOIN videos ON users.user_id = videos.user_id
 
 
+-- session 4 là phần này ***********************
 
 -- tạo database cho web app food
 -- tạo table users
